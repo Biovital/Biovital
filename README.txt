@@ -5,3 +5,4 @@ Cambios principales: adaptación a la estructura real de Supabase para productos
 NOTA: la columna imagen_url ya fue agregada en Supabase. No es necesario ejecutar de nuevo el SQL.
 
 Subir el contenido de esta carpeta a Netlify Drop en el proyecto BIOVITAL existente. No borrar ni crear otro proyecto.
+V15 STOCK FIX
